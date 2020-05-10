@@ -6,7 +6,7 @@ This is the code for the paper :
 
 Arushi Goel, Keng Teck Ma, Cheston Tan, An End-to-End Network for Generating Social Relationship Graphs, CVPR 19.
 
-The paper for this project is available [here](https://arxiv.org/abs/1903.09784)
+The paper for this project is available [here](https://arxiv.org/abs/1903.09784).
 
 ### Dataset
 
